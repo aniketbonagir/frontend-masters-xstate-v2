@@ -122,7 +122,7 @@
   "resolved" "https://registry.npmjs.org/ws/-/ws-7.5.9.tgz"
   "version" "7.5.9"
 
-"xstate@^4.25.0":
-  "integrity" "sha512-qP7lc/ypOuuWME4ArOBnzaCa90TfHkjiqYDmxpiCjPy6FcXstInA2vH6qRVAHbPXRK4KQIYfIEOk1X38P+TldQ=="
-  "resolved" "https://registry.npmjs.org/xstate/-/xstate-4.25.0.tgz"
-  "version" "4.25.0"
+"xstate@^4.33.6":
+  "integrity" "sha512-A5R4fsVKADWogK2a43ssu8Fz1AF077SfrKP1ZNyDBD8lNa/l4zfR//Luofp5GSWehOQr36Jp0k2z7b+sH2ivyg=="
+  "resolved" "https://registry.npmjs.org/xstate/-/xstate-4.33.6.tgz"
+  "version" "4.33.6"
